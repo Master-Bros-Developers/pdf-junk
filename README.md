@@ -1,4 +1,4 @@
-# PDF Junk 🪄 - Python Junk PDF Generator
+# PDF Junk 🪄 - Python Junk PDF Generator v1.3
 
 **Generate Random PDFs with Ease!**
 
