@@ -9,7 +9,7 @@ This project is licensed under a customized version of the [Creative Commons Att
 
 ### Attribution Requirements
 Please include the following in any work derived from or using this code:
-- A visible acknowledgment in the documentation, website, or app interface that credits the original creator, [Your Name or Alias].
+- A visible acknowledgment in the documentation, website, or app interface that credits the original creator, Balogh Barnabás, Masterbros Developers.
 - A link to the original repository or project page, if applicable.
 
 For any questions or permissions beyond the scope of this license, feel free to contact me directly.
