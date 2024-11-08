@@ -2,7 +2,7 @@
 
 **Generate Random PDFs with Ease!**
 
-This Python script (`main.py`) provides a convenient way to generate random PDF files. Whether you need test files for your applications or want to populate a virtual library (without copyright infringement, of course!), this tool is here to help. 
+This Python script (`main.py`) provides a convenient way to generate random PDF files. You can use this for Scribd for downloading the whole PDF for free .Or whether you need test files for your applications or want to populate a virtual library (without copyright infringement, of course!), this tool is here to help. 
 
 **Key Features:**
 
